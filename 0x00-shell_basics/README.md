@@ -1,1 +1,2 @@
-this is my second read me file
+0-current_working_directory this script prints the current directory
+
